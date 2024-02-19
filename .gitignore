@@ -1,0 +1,6 @@
+dist/
+*.egg-info
+bin/
+lib/
+pyvenv.cfg
+*.pyc
